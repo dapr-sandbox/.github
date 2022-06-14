@@ -9,4 +9,4 @@ It is also possible for projects that are no longer being maintained in the Dapr
 that these have returned to a experimental state.
 
 If you have any questions on the status of projects in this repo either raise a question as an issue in this repo or post onto the Dapr Discord
-general channel which you can find [here](https://github.com/dapr/community#questions-and-issues)
+general channel which you can find [here](https://github.com/dapr/community#questions-and-issues).
